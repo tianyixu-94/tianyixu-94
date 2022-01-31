@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tianyixu-94
-- 👀 I’m interested in ecology, evolutionary biology, and vertebrate biology. 
-- 🌱 I’m currently learning R and Python, and participating in Q-Bio summer program. 
+- 👀 I’m interested in ecology & evolutionary biology. 
+- 🌱 I’m currently learning R.
 - 📫 How to reach me: tianyixu.cindy@gmail.com/txu89@emory.edu
 
 <!---
